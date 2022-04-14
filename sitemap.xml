@@ -2,3 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://happyhomepaintingor.com/index</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/store</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/reviews</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/gallery-All</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/gallery-Painting</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/gallery-Construction</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Deck-&-Patio-Installation</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Flooring-Installation</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Handyman</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Sheds</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Home-inspection-repair</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Siding</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Interior-Painting</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://happyhomepaintingor.com/service-Exterior-Painting-</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
